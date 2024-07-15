@@ -1,0 +1,1 @@
+{{ $model->updated_at->diffForHumans() }}

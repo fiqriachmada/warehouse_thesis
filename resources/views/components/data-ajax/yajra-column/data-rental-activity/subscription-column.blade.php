@@ -1,0 +1,1 @@
+{{ $detail_transaction->warehouse_subscription->subscription->name }}

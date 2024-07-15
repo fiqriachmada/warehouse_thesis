@@ -1,0 +1,1 @@
+{{ $model->pob }}, {{ \Carbon\Carbon::parse($model->dob)->format('d/m/Y') }}

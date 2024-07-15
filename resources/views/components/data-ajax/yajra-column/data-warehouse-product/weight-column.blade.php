@@ -1,0 +1,1 @@
+@convertGramToKg($model->weight)

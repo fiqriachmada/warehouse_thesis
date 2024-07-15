@@ -1,0 +1,1 @@
+{{ $model->expired_date ? \Carbon\Carbon::parse($model->expired_date)->format('d/m/Y') : '' }}

@@ -1,0 +1,1 @@
+{{ $model->bank->bank_name }}

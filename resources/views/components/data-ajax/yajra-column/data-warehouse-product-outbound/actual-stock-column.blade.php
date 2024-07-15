@@ -1,0 +1,1 @@
+{{ $model->batch->sum('available') }}

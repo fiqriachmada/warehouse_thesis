@@ -1,0 +1,1 @@
+#{{ head(explode('-', $model->id)) }}

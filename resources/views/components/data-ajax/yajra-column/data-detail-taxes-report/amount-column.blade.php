@@ -1,0 +1,1 @@
+@rupiah(($model->detail_transaction->sum('subtotal') / 100) * $model->tax->value)

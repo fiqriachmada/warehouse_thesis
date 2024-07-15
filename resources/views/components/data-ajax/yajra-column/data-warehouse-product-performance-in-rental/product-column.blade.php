@@ -1,0 +1,1 @@
+{{ $model->product_name }}

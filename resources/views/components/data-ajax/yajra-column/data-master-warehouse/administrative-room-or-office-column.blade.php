@@ -1,0 +1,1 @@
+<span class="text-capitalize">{{ $model->administrative_room_or_office }}</span>

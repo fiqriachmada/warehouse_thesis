@@ -1,0 +1,1 @@
+<input type="checkbox" name="product_ids[]" class="form-check-input" id="checkbox_product_ids" value="{{ $model->id }}">

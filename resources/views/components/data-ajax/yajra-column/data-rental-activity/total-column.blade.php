@@ -1,0 +1,1 @@
+@rupiah($model->grand_total - ($model->grand_total / 100 * $model->tax->value)) (Excl. Tax {{ $model->tax->value }}%)

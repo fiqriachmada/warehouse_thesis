@@ -1,0 +1,1 @@
+{{ $model->on_hand }}

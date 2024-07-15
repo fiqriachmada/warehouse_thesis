@@ -1,0 +1,1 @@
+{{ $model->warehouse_category->category }}

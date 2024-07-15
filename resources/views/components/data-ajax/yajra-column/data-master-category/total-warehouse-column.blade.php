@@ -1,0 +1,1 @@
+{{ count($model->warehouse) }}

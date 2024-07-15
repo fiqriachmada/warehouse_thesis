@@ -1,0 +1,1 @@
+{{ $model->capacity }} m<sup>3</sup>

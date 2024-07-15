@@ -1,0 +1,1 @@
+<div class="text-capitalize">{{ $model->country->name }}</div>

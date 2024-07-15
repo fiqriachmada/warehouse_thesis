@@ -1,0 +1,1 @@
+{{ $model->availability_status }}

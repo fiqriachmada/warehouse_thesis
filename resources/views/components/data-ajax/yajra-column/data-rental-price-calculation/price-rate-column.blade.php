@@ -1,0 +1,1 @@
+@rupiah($model->price_rate)

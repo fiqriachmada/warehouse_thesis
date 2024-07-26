@@ -67,4 +67,12 @@ Project Setup :
     Password : tenant123
     ```
 
-# warehouse
+15. jalankan perintah untuk link storage image sebelum melakukan upload gambar  :
+    ```
+    php artisan storage:link
+    ```
+15. tambahkan perintah ini untuk sebagai library gambar jika Anda menggunakan xampp, edit di PHP.ini pada config apache :
+    ```
+    extension=gd
+    extension=php_gd2.dll
+    ```    
